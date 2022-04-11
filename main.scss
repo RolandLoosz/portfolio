@@ -1,0 +1,12 @@
+// custom variables
+$primary: #28ad31;
+
+// custom navbar variables
+$navbar-dark-active-color: $primary;
+$navbar-dark-hover-color: rgba($primary, .8);
+
+$navbar-dark-brand-color:                 white;
+$navbar-dark-brand-hover-color:           $navbar-dark-active-color;
+
+// import bootstrap
+@import './node_modules/bootstrap/scss/bootstrap';
