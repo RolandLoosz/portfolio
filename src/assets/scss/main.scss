@@ -9,4 +9,5 @@ $navbar-dark-brand-color:                 white;
 $navbar-dark-brand-hover-color:           $navbar-dark-active-color;
 
 // import bootstrap
-@import './node_modules/bootstrap/scss/bootstrap';
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+// @import '~bootstrap/scss/bootstrap';
